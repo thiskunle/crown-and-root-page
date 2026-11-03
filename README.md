@@ -1,4 +1,4 @@
-# Crown and Root page
+# Crown and Root: Launching Soon page
 
 The launch page for Crown and Root batana oil, operated by GramByte Technologies Inc. It's plain HTML and CSS, hosted on GitHub Pages.
 
