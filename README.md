@@ -4,7 +4,9 @@ The launch page for Crown and Root batana oil, operated by GramByte Technologies
 
 - `index.html`: page content
 - `styles.css`: page design
-- `assets/`: logo and favicon
+- `main.js`: mouse-driven film and 3D tilt
+- `assets/`: logo, favicon, share image, and film frames
+- `tools/build_frames.py`: rebuilds the film frames from a video
 
 To update the live page, change these files and push to `main`. GitHub Pages republishes automatically.
 
